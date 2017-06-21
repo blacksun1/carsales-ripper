@@ -1,0 +1,15 @@
+{
+  "name": "carsales-ripper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Bruce <simon@blacksun.cx>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "node-fetch": "^1.7.1"
+  }
+}
